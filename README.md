@@ -1,4 +1,4 @@
-A multi-metabolite signature robustly predicts long-term mortality in the PREDIMED trial and several US cohorts
+# A multi-metabolite signature robustly predicts long-term mortality in the PREDIMED trial and several US cohorts
 
 The R-code Scripts in this repository cover the main analysis:
 
@@ -9,4 +9,4 @@ The R-code Scripts in this repository cover the main analysis:
 4) Score association with all-cause mortality: Association of baseline PREDIMED score and mortality
 5) Validation example (PREDIMED 1-year of follow-up): Validation of 38-multimetabolite score in PREDIMED at 1 year of follow-up
 
-For any questions, please contact Gonzalo Fernández-Duval ( ghfernandezd@unav.es )
+If you have any questions, please contact Gonzalo Fernández-Duval ( ghfernandezd@unav.es )

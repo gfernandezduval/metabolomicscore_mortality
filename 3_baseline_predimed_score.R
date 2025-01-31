@@ -79,7 +79,7 @@ for (i in 1:k) {
   # Get coefficients
   model_coef <- coef(cv_fit, s= cv_fit$lambda.1se)
   selected_idx <- model_coef@i + 1
-  coef_values <- model_coef@x      #round(, digits = 4)
+  coef_values <- model_coef@x      
   
   # Store selected metabolites and their coefficients for this fold
   fold_metabolites[selected_idx, paste0("fold", i)] <- coef_values
